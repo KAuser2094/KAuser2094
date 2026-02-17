@@ -3,7 +3,7 @@
 - 🌴 I've currently learnt ... Python (+ Django), Lua, some C#/Java, basic C/C++ and very rudimentary JS (I don't like JS -_-)
 - 🌱 I’m currently learning ... Improving Lua and Django, possible JS (still don't like it).
 - 💞️ I’m looking to collaborate on ... anything and nothing. (Ok with anything if it comes, looking for nothing in particular)
-- 📫 How to reach me ... no.
+- 📫 How to reach me ... if you don't already have contact information then you probably shouldn't be reaching me.
 
 <!---
 KAuser2094/KAuser2094 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
