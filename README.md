@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KAuser2094 (Or Kastel usually on other websites)
 - 👀 I’m interested in ... ?
-- 🌴 I've currently learnt ... Python (+ Django), Lua, some C#/Java, basic C/C++ and very rudimentary JS (I don't like JS -_-)
-- 🌱 I’m currently learning ... Improving Lua and Django, possible JS (still don't like it).
-- 💞️ I’m looking to collaborate on ... anything and nothing. (Ok with anything if it comes, looking for nothing in particular)
+- 🌴 I've currently learnt ... Python (+ Django), Lua, some C#/Java, basic C/C++ and very rudimentary JS
+- 🌱 I’m currently learning ... Improving Lua.
+- 💞️ I’m looking to collaborate on ... anything and nothing.
 - 📫 How to reach me ... if you don't already have contact information then you probably shouldn't be reaching me.
 
 <!---
